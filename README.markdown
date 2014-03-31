@@ -6,7 +6,7 @@ Don't edit this file manually! Instead you should generate it by using:
 Name
 ====
 
-ngx_redis2 - Nginx upstream module for the Redis 2.0 protocol
+ngx_redis2 - Nginx upstream module for the Redis 2.0 protocol hehe
 
 *This module is not distributed with the Nginx source.* See [the installation instructions](#installation).
 
